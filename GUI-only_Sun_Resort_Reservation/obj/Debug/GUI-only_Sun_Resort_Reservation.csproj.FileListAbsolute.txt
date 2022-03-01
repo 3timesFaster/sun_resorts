@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\bin\Debug\GUI-only_Sun_Resort_Reservation.exe.config
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\bin\Debug\GUI-only_Sun_Resort_Reservation.exe
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\bin\Debug\GUI-only_Sun_Resort_Reservation.pdb
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\obj\Debug\GUI-only_Sun_Resort_Reservation.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\obj\Debug\GUI-only_Sun_Resort_Reservation.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\obj\Debug\GUI_only_Sun_Resort_Reservation.Form1.resources
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\obj\Debug\GUI-only_Sun_Resort_Reservation.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\obj\Debug\GUI-only_Sun_Resort_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\obj\Debug\GUI-only_Sun_Resort_Reservation.exe
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\obj\Debug\GUI-only_Sun_Resort_Reservation.pdb
+C:\Users\user\Desktop\AdvC#\GUI-only_Sun_Resort_Reservation\GUI-only_Sun_Resort_Reservation\obj\Debug\GUI_only_Sun_Resort_Reservation.Properties.Resources.resources
